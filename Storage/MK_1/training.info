@@ -1,0 +1,1 @@
+Epochs: 100000Alpha: 0.001Gamma: 0.8Epsilon: 0.1Trajectory Length: 50000

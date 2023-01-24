@@ -1,0 +1,3 @@
+[submodule "HaxBallEnv"]
+	path = HaxBallEnv
+	url = git@gitlab.ldv.ei.tum.de:ga56rir/HaxBallEnv.git
